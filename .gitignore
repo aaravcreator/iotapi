@@ -1,0 +1,18 @@
+.env
+env
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+Dockerfile
+docker-compose.yml
+datadump.json
+/iotenv
+iotenv
+/media
+/__pycache__
+media
+/migrations
